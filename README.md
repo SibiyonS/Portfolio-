@@ -72,11 +72,7 @@ The live site is deployed on [Render](https://render.com) as a static site:
 
 **https://sibiyon-s-portfolio.onrender.com**
 
-To redeploy your own copy on Render:
-1. Push this repository to GitHub
-2. Create a new **Static Site** on Render and connect the repo
-3. Leave the build command empty and set the publish directory to the project root
-4. Deploy
+=
 
 ## Customization
 
