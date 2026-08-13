@@ -72,8 +72,6 @@ The live site is deployed on [Render](https://render.com) as a static site:
 
 **https://sibiyon-s-portfolio.onrender.com**
 
-=
-
 ## Customization
 
 - **Contact links** (LinkedIn, GitHub, email, phone) — update the `href` values inside the `#contact` section of `index.html`
